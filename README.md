@@ -32,7 +32,7 @@ BasicModel helps you (developer) to create a code more fast and efficient. By us
 - [ ] **Upload File**: Upload file and record file description to database with return success;
 - [ ] **Create Image Thumbnail**: Create thumb of uploaded image.;
 
-> Which one do you want first? Any other recommendations? Search for [existing feature requests](https://github.com/kuncorowicaksono/jest/issues?q=is%3Aissue+is%3Aopen+label%3A%22feature+request%22+sort%3Areactions-%2B1-desc) and add a 👍 reaction on them, or create a new one.
+> Which one do you want first? Any other recommendations? Search for [existing feature requests](https://github.com/coroo/basicmodel/issues) and add a 👍 reaction on them, or create a new one.
 
 <br/>
 
