@@ -46,8 +46,7 @@ Whenever possible, please make a pull request with the implementation instead of
 
 ## Running it locally
 
-- `cd application/models`
-- `git clone git@github.com:devhubapp/devhub.git`
+- `git clone git@github.com:coroo/basicmodel.git`
 
 That's it. It will copy the basicModel to your model. 
 
