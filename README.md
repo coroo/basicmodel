@@ -42,6 +42,7 @@ Bug reports, feature requests and other contributions are more than welcome! <br
 Whenever possible, please make a pull request with the implementation instead of just requesting it.
 
 > If the feature is big, please open an issue first for discussion.
+<br/>
 
 ## Running it locally
 
