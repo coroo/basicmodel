@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/djnLFxG/ux-design.png" height="40" /><br/>
+  <img src="https://i.ibb.co/djnLFxG/ux-design.png" height="80" /><br/>
   <span><b>BasicModel</b>: <span>Universal Model Codeigniter [BETA]</span></a>
 </p>
   
