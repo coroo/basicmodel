@@ -145,7 +145,7 @@ class BasicModels extends CI_Model
 		{
             $db_insert_id = $this->db->insert_id();
             $this->load->helper('db_helper');
-            accounting_log($this->db->last_query(), $session['user_id']);
+            // log($this->db->last_query(), $session['user_id']);
 			if($insert_id==true)
             {return $db_insert_id;}
 			else
@@ -197,7 +197,7 @@ class BasicModels extends CI_Model
 		if($this->db->update($tbl_name,$data_array))
 		{
             $this->load->helper('db_helper');
-            accounting_log($this->db->last_query(), $session['user_id']);
+            // log($this->db->last_query(), $session['user_id']);
             return array('success' => true);
         }
 		else
@@ -224,7 +224,7 @@ class BasicModels extends CI_Model
 		if($this->db->update($tbl_name,$data_array))
 		{
             $this->load->helper('db_helper');
-            accounting_log($this->db->last_query(), $session['user_id']);
+            // log($this->db->last_query(), $session['user_id']);
             return array('success' => true);
         }
 		else
@@ -250,7 +250,7 @@ class BasicModels extends CI_Model
 		if($this->db->delete($tbl_name))
 		{
             $this->load->helper('db_helper');
-            accounting_log($this->db->last_query(), $session['user_id']);
+            // log($this->db->last_query(), $session['user_id']);
             return $this->db->last_query();
         }
 		else
